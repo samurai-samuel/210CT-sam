@@ -1,3 +1,3 @@
 # 210CT-sam
-second year programming project
-Answers to coding questions for coursework
+Second year programming project
+answers to coding questions for coursework
