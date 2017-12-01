@@ -18,6 +18,7 @@ else:
 print(degree_ans)   
 
 for d in p1:
-  p_ans = d + p2[:]
+    for c in p2:
+        return c+d
+    
 
-  print(p_ans)
